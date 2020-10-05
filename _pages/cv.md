@@ -56,4 +56,4 @@ Skills
   
 Teaching
 -----------
-I have served as a teaching assistant for several courses at NC State University   **Matlab labratorey**, **Signal and Systems**, and **Computer Networks**.
+I have served as a teaching assistant for several courses at NC State University   **Matlab Lab Mentor**, **Signal and Systems**, and **Computer Networks**.
