@@ -1,33 +1,13 @@
 ---
-layout: page
-title: Publications
-description: Ali Rahmati's publications
+layout: archive
+title: ""
+permalink: /publications/
+author_profile: true
 ---
-<!--
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#book">book</a></li>
-            <li><a href="#articles">articles</a></li>
-            <li><a href="#editorials">editorials</a></li>
-            <li><a href="#letters">letters</a></li>
-            <li><a href="#chapters">chapters</a></li>
-            <li><a href="#techreports">tech reports</a></li>
-            <li><a href="#thesis">dissertation</a></li>
-        </ul>
-    </div>
-</div>
--->
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#journal">Journals</a></li>
-            <li><a href="#conf">Conferences</a></li>
-            <li><a href="#preprints">Pre-prints</a></li>
-       </ul>
-    </div>
-</div>
 
+
+
+You can find all my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=Hp0MiBcAAAAJ&hl=en&authuser=1).
 
 
 
