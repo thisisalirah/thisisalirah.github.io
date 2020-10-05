@@ -1,7 +1,8 @@
 ---
 title: "Interference Avoidance Trajectory Design for UAVs"
 excerpt: "Using our proposed scheme, the UAVs can effectively reconfigure their positions to avoid the interference and improve the data flow from the source(s) to the destination(s). <p align="center"><img src="https://user-images.githubusercontent.com/36679506/78077557-90268480-7376-11ea-9d85-3ede02389ba0.gif" /></p>
-collection: Selected Research Projects
+
+collection: Selected Projects
 ---
 
 
