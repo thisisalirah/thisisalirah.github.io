@@ -17,7 +17,7 @@ network connectivity. This work got accepted to INFOCOM 2019, and the full paper
 Simple demos of the proposed trajectory design are shown in the following animated figures. In the figures for trajectory of the UAVs, the circles show the final locations of the UAVs, while the beginning of the lines show the initial locations of the UAV relays.
 
 
-##Single interferer      
+## Single interferer      
 ![1jammer-3dview](https://user-images.githubusercontent.com/36679506/78077557-90268480-7376-11ea-9d85-3ede02389ba0.gif) 
 
 
