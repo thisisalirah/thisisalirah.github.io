@@ -10,7 +10,7 @@ You can find all my papers on my [Google Scholar profile](https://scholar.google
 
 
 
-### <a name="preprints"></a> Pre-prints
+## <a name="preprints"></a> Pre-prints
 
 [P2] S. Hosseinalipour, **A. Rahmati**, Do Young Eun, and H. Dai, "Energy-Aware Stochastic UAV-Assisted Surveillance," [[arXiv]](https://arxiv.org/abs/2004.06011)
 
@@ -27,7 +27,7 @@ You can find all my papers on my [Google Scholar profile](https://scholar.google
 ---
 
 
-### <a name="journal"></a>Journal papers
+## <a name="journal"></a>Journal papers
 
 
 
@@ -54,7 +54,7 @@ heterogeneous networks: An efficient optimization method.” *IEEE Commun. Lett.
 
 ---
 
-### <a name="conf"></a> Conference papers
+## <a name="conf"></a> Conference papers
 
 [C14] **A. Rahmati**,  S. Hosseinalipour, Y. Yapici, I. Guvenc, H. Dai, and A. Bhuyan, "Energy-Efficient Beamforming and Power Control for Uplink NOMA in mmWave UAV Networks", in Proc. IEEE Global Telecommun. Conf., Taipei, Taiwan, Dec. 2020.
 
