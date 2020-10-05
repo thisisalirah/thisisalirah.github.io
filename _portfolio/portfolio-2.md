@@ -23,6 +23,7 @@ In this scenario, we consider one interferer, one source, one destination and 8 
 ![1jammer-3dview](https://user-images.githubusercontent.com/36679506/78077557-90268480-7376-11ea-9d85-3ede02389ba0.gif) 
 
 
+## Multiple interferers    
 
 Here, we consider 3 interferers where we show both top and 3D view of the trajectory design.
 
