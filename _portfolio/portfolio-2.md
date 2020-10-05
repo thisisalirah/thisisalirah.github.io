@@ -20,11 +20,11 @@ Simple demos of the proposed trajectory design are shown in the following animat
 ## Single interferer      
 In this scenario, we consider one interferer, one source, one destination and 8 UAVs acting as relays to deliver the information from the source to the destination.
 
-![1jammer-3dview](https://user-images.githubusercontent.com/36679506/78077557-90268480-7376-11ea-9d85-3ede02389ba0.gif) 
-
+<center>
 |  Single interferer  | 
 |:-------------------------:|
 ![1jammer-3dview](https://user-images.githubusercontent.com/36679506/78077557-90268480-7376-11ea-9d85-3ede02389ba0.gif) |
+</center>
 
 ## Multiple interferers    
 
