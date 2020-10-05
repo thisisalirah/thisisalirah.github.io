@@ -4,7 +4,6 @@ excerpt: "Using our proposed scheme, the UAVs can effectively reconfigure their 
 collection: portfolio
 ---
 
-### <a name="journal"></a> 2. Interference avoidance trajectory design for UAVs
 Taking advantage of the inherent mobility feature of the
 UAVs an adaptive interference avoidance scheme is developed.
 Using the proposed scheme, the UAVs can effectively
