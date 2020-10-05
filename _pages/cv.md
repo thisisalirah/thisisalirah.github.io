@@ -40,7 +40,7 @@ Work experience
 * **Research Assistant** (Spring 2016 -- Present)
   * [NC State University](https://www.ncsu.edu/)
 
-* **C Engineering Intern** (Summer 2020)
+* **CRD Research Intern** (Summer 2020)
   * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
   
 * **Research Intern** (Summer 2019)
