@@ -6,7 +6,6 @@ collection: portfolio
 
 
 
-### <a name="journal"></a> 1. Geometric Decision-based Attack (GeoDA)
 
  GeoDA is  a black-box attack framework to generate adversarial example for image classifiers.  We propose a geometric
 framework to generate adversarial examples in one of the
@@ -28,7 +27,7 @@ vicinity of data samples. GeoDA got accepted to CVPR 2020. You can find the full
 
 
 
-#### Linearizing the decision boundary
+## Linearizing the decision boundary
 Given a boundary point, the decision boundary at the vicinity of a data point can be locally
 approximated by a hyperplane passing through the boundary point. The goal is pretty much to estimate the normal vector to the boundary.
 
@@ -38,7 +37,7 @@ approximated by a hyperplane passing through the boundary point. The goal is pre
 
  
 
-#### A few examples on the performance of the GeoDA for different norms
+## A few examples on the performance of the GeoDA for different norms
 
 
 
@@ -46,13 +45,13 @@ approximated by a hyperplane passing through the boundary point. The goal is pre
 
 
 
-#### More examples with magnified perturbations for better visibility
+## More examples with magnified perturbations for better visibility
 
 <p align="center"><img src="https://user-images.githubusercontent.com/36679506/81288488-bf45ab00-9032-11ea-8ba3-f7b22384f34c.png" /></p>
 
 
 
-#### Code
+## Code
 
 The Pytorch implementation of GeoDA can be found [here](https://github.com/thisisalirah/GeoDA).
 
