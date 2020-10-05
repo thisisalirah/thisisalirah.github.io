@@ -5,6 +5,7 @@ excerpt: "GeoDA is a black-box attack framework to generate adversarial example 
 collection: portfolio
 ---
 
+<p align="center"><img src="https://user-images.githubusercontent.com/36679506/81717788-fd830600-9448-11ea-9dff-d443f956662b.gif" /></p>
 
 
 
