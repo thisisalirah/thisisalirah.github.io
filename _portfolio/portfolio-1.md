@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://user-images.githubusercontent.com/36679506/81717788-fd830600-9448-11ea-9dff-d443f956662b.gif'>"
+title: "GeoDA: a Desicion-based Adverarial Attack"
+excerpt: "GeoDA is a black-box attack framework to generate adversarial example for image classifiers. We propose a geometric framework to generate adversarial examples in one of the most challenging black-box settings where the adversary can only generate a small number of queries, each of them returning the top-1 label of the classifier. <br/><img src='https://user-images.githubusercontent.com/36679506/81717788-fd830600-9448-11ea-9dff-d443f956662b.gif'>"
 collection: portfolio
 ---
 
