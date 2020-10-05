@@ -24,7 +24,7 @@ Education
 
 * Advisor: [Dr. Vahid Shah-Mansouri](https://scholar.google.ca/citations?user=EbkCWiEAAAAJ&hl=en)
 
-* Thesis: Prce-based Data offloading in Heterogenous Networks
+* Thesis: Price-based Data offloading in Heterogenous Networks
 
 **Ferdowsi University of Mashhad**, Mashhad, Iran (Fall 2008 -- Summer 2012)
 
