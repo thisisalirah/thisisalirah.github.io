@@ -1,13 +1,9 @@
 ---
 title: "GeoDA: a Desicion-based Adverarial Attack"
 excerpt: "GeoDA is a black-box attack framework to generate adversarial example for image classifiers. We propose a geometric framework to generate adversarial examples in one of the most challenging black-box settings where the adversary can only generate a small number of queries, each of them returning the top-1 label of the classifier. 
-<br/><img src='https://user-images.githubusercontent.com/36679506/81717788-fd830600-9448-11ea-9dff-d443f956662b.gif'>"
+<br/><img align="center" src='https://user-images.githubusercontent.com/36679506/81717788-fd830600-9448-11ea-9dff-d443f956662b.gif'>"
 collection: portfolio
 ---
-
-<p align="center"><img src="https://user-images.githubusercontent.com/36679506/81717788-fd830600-9448-11ea-9dff-d443f956662b.gif" /></p>
-
-
 
  GeoDA is  a black-box attack framework to generate adversarial example for image classifiers.  We propose a geometric
 framework to generate adversarial examples in one of the
@@ -25,19 +21,12 @@ vicinity of data samples. GeoDA got accepted to CVPR 2020. You can find the full
 </p>
 
 
-
-
-
-
 ## Linearizing the decision boundary
 Given a boundary point, the decision boundary at the vicinity of a data point can be locally
 approximated by a hyperplane passing through the boundary point. The goal is pretty much to estimate the normal vector to the boundary.
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/36679506/81717788-fd830600-9448-11ea-9dff-d443f956662b.gif" /></p>
-
-
- 
 
 ## A few examples on the performance of the GeoDA for different norms
 
