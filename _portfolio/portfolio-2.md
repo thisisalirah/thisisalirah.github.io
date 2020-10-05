@@ -24,6 +24,7 @@ In this scenario, we consider one interferer, one source, one destination and 8 
 
 
 
+Here, we consider 3 interferers where we show both top and 3D view of the trajectory design.
 
 |  Multiple interferer (top view)         | Multiple interferer (3D view)
 |:-------------------------:|:-------------------------:|  
