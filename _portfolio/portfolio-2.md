@@ -4,7 +4,7 @@ excerpt: "Using our proposed scheme, the UAVs can effectively reconfigure their 
 collection: portfolio
 ---
 |Single interferer          |        
-|:-------------------------:|![1jammer-3dview](https://user-images.githubusercontent.com/36679506/78077557-90268480-7376-11ea-9d85-3ede02389ba0.gif) | 
+|![1jammer-3dview](https://user-images.githubusercontent.com/36679506/78077557-90268480-7376-11ea-9d85-3ede02389ba0.gif) | 
 
 
 
