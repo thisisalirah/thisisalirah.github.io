@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -23,7 +23,7 @@ I am a PhD student in Electrical and Computer engineering  department in [North 
 </p>
 
 
-#### Research Interests
+## Research Interests
 
 - Robustness of deep neural networks 
 - Wireless communication and UAV networks
