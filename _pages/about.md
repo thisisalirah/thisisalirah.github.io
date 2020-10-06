@@ -57,16 +57,3 @@ I am a PhD student in Electrical and Computer engineering  department in [North 
 
 
 
-----
-## Professional Services
-
-##### Reviewer for:
-
-- IEEE Transaction on Communications
-- IEEE Journal on Selected Areas in Communications
-- IEEE Transaction on Wireless Communications
-- IEEE Access
-- IEEE Journal of Internt of Things
-- IEEE Communication Letters
-- IEEE Wireless Communications Letters
-
