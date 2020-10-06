@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 -----------
-**NC State University**, Raleigh, NC, USA (Spring 2016 -- Present)
+**NC State University**, Raleigh, NC, USA (Spring 2017 -- Present)
 
 *Doctor of Philosophy in Electrical Engineering*
 
