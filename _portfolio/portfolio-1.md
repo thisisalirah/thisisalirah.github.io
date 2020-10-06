@@ -46,4 +46,4 @@ approximated by a hyperplane passing through the boundary point. The goal is pre
 
 The Pytorch implementation of GeoDA can be found [here](https://github.com/thisisalirah/GeoDA).
 
-----
+
