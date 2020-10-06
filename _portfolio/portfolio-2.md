@@ -1,6 +1,6 @@
 ---
 title: "Interference Avoidance Trajectory Design for UAVs"
-excerpt: "Using our proposed scheme, the UAVs can effectively reconfigure their positions to avoid the interference and improve the data flow from the source(s) to the destination(s). <br/><img src='https://user-images.githubusercontent.com/36679506/78077557-90268480-7376-11ea-9d85-3ede02389ba0.gif'> <br/>**A. Rahmati**, X. He, I. Guvenc, and H. Dai, “Dynamic Mobility-Aware Interference Avoidance for Aerial Base Stations in Cognitive Radio Networks”, in *Proc.  IEEE INFOCOM*, May 2019. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/8737472)"
+excerpt: "Using our proposed scheme, the UAVs can effectively reconfigure their positions to avoid the interference and improve the data flow from the source(s) to the destination(s). <br/><img src='https://user-images.githubusercontent.com/36679506/78077557-90268480-7376-11ea-9d85-3ede02389ba0.gif'> <br/> <br/> **A. Rahmati**, X. He, I. Guvenc, and H. Dai, “Dynamic Mobility-Aware Interference Avoidance for Aerial Base Stations in Cognitive Radio Networks”, in *Proc.  IEEE INFOCOM*, May 2019. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/8737472)"
 collection: Selected Projects
 ---
 
