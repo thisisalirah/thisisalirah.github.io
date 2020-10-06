@@ -2,6 +2,7 @@
 title: "GeoDA: a Desicion-based Adverarial Attack"
 excerpt: "GeoDA is a black-box attack framework to generate adversarial example for image classifiers. We propose a geometric framework to generate adversarial examples in one of the most challenging black-box settings where the adversary can only generate a small number of queries, each of them returning the top-1 label of the classifier. 
 <br/><img src='https://user-images.githubusercontent.com/36679506/81717788-fd830600-9448-11ea-9dff-d443f956662b.gif'>"
+ **A. Rahmati**, S. M. Moosavi-Dezfooli, P. Frossard, and H. Dai, “A geometric framework for black-box adversarial attacks”, in *CVF/IEEE Computer Vision and Pattern Recognition (CVPR'20)*, Seattle, WA, 2020. [[CVF Open Access]](http://openaccess.thecvf.com/content_CVPR_2020/html/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.html), [[arXiv]](http://arxiv.org/abs/2003.06468), [[Code]](https://github.com/thisisalirah/GeoDA)
 collection: portfolio
 ---
 
