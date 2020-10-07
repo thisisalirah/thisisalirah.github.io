@@ -14,14 +14,6 @@ Hi :), welcome to my homepage.
 I am a PhD student in Electrical and Computer engineering  department in [North Carolina State University](https://www.ncsu.edu/). My research is supervised by [Professor Huaiyu Dai](https://people.engr.ncsu.edu/hdai/) and [Dr. Ismail Guvenc](https://sites.google.com/site/iguvenc/). My research interest is mainly developing mathematically tractable models of cellular networks using the tools of optimization, machine learning and game theory. Recently, I bacame intrested in robustness/security of deep image classifiers. In summer 2019, I was an intern in [Docomo Innovations](https://www.docomoinnovations.com/) where I  explored the dimension reduction  for wireless channels using tSNE, UMAP, PCA, and Autoencoder algorithms.  In summer 2020, I joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com/)  Corporate Research & Development (CRD) as a summer intern.
 
 
-<p align="center">
-             <!--   <a href="{{ BASE_PATH }}/assets/resume_chiranjib.pdf">CV</a> / -->
-               <!--  <a href="{{ BASE_PATH }}/assets/chiranjib-bio.txt">Biography</a> / -->
-                <a href="https://scholar.google.com/citations?user=YMeLTBsAAAAJ&hl=en">Google Scholar</a>  /
-                <a href="https://www.linkedin.com/in/ali-rahmati-0b833a160/"> LinkedIn </a>  /
-                 <a href="https://github.com/thisisalirah"> Github </a>
-</p>
-
 
 ## Research Interests
 
