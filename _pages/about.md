@@ -11,7 +11,7 @@ redirect_from:
 
 Hi :), welcome to my homepage.
 
-I am a PhD student in Electrical and Computer engineering  department in [North Carolina State University](https://www.ncsu.edu/). My research is supervised by [Professor Huaiyu Dai](https://people.engr.ncsu.edu/hdai/) and [Dr. Ismail Guvenc](https://sites.google.com/site/iguvenc/). My research interest is mainly developing mathematically tractable models of cellular networks using the tools of optimization, machine learning and game theory. Recently, I bacame intrested in robustness/security of deep image classifiers. In summer 2019, I was an intern in [Docomo Innovations](https://www.docomoinnovations.com/) where I  explored the dimension reduction  for wireless channels using tSNE, UMAP, PCA, and Autoencoder algorithms.  In summer 2020, I joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com/)  Corporate Research & Development (CRD) as a summer intern.
+I am a PhD student in Electrical and Computer engineering  department in [North Carolina State University](https://www.ncsu.edu/). My research is supervised by [Professor Huaiyu Dai](https://people.engr.ncsu.edu/hdai/) and [Dr. Ismail Guvenc](https://sites.google.com/site/iguvenc/). My research interest is mainly developing mathematically tractable models of cellular networks using the tools of optimization, machine learning and game theory. Recently, I bacame intrested in robustness/security of deep image classifiers. In summer 2019, I was an intern in [Docomo Innovations, Inc.](https://www.docomoinnovations.com/) where I  explored the dimension reduction  for wireless channels using tSNE, UMAP, PCA, and Autoencoder algorithms.  In summer 2020, I joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com/)  Corporate Research & Development (CRD) as a summer intern.
 
 
 
@@ -39,7 +39,7 @@ I am a PhD student in Electrical and Computer engineering  department in [North 
 - [Dec 2019]  [Paper](https://arxiv.org/abs/1904.07781) presented in [*IEEE Globecom 2019*](https://globecom2019.ieee-globecom.org/).
 - [Nov 2019] Received [NSF student travel grant](https://globecom2019.ieee-globecom.org/program/student-travel-grant-winners) for Globecom 2019.
 - [Jul 2019]  [Paper](https://arxiv.org/abs/1904.07781) accepted in [*IEEE Globecom 2019*](https://globecom2019.ieee-globecom.org/).
-- [May 2019] Joined [Docomo Innovations](https://www.docomoinnovations.com/) as a summer intern.
+- [May 2019] Joined [Docomo Innovations, Inc.](https://www.docomoinnovations.com/) as a summer intern.
 - [Mar 2019]  [Paper](https://ieeexplore.ieee.org/document/8756699) accepted in [*IEEE ICC 2019, NOMA5G workshop*](https://icc2019.ieee-icc.org/workshop/w05-5th-international-workshop-non-orthogonal-multiple-access-techniques-5g).
  - [Feb 2019] Two papers accepted in  [*IEEE ICC 2019*](https://icc2019.ieee-icc.org/).
 
