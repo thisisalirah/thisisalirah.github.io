@@ -29,7 +29,7 @@ I am a PhD student in Electrical and Computer engineering  department in [North 
 ##### 2020
 
 - [Aug 2020]  Paper accepted in [*IEEE Globecom 2020*](https://globecom2020.ieee-globecom.org/).
-- [Jul 2020] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com/)  Corporate Research & Development (CRD) as a summer intern.
+- [Jul 2020] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com/)  Corporate Research & Development as an  intern.
 - [Jul 2020]  [Paper](https://ieeexplore.ieee.org/document/9140376) accepted in [ *IEEE Transactions of Wireless Communications*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693).
 - [Apr 2020]  [Paper](https://arxiv.org/abs/2005.04585) accepted in [ *IEEE SPAWC 2020*](https://spawc2020.netlify.app/).
  - [Feb 2020]  [Paper](http://arxiv.org/abs/2003.06468) accepted in [*CVF/IEEE CVPR 2020*](http://cvpr2020.thecvf.com/).
