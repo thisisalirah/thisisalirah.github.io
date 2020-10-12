@@ -41,10 +41,10 @@ Work experience
   * [NC State University](https://www.ncsu.edu/)
 
 * **CRD Research Intern** (Summer 2020)
-  * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
+  * [Qualcomm Technologies, Inc.](https://www.qualcomm.com)
   
 * **Research Intern** (Summer 2019)
-  * [Docomo Innovations](https://www.docomoinnovations.com/)
+  * [Docomo Innovations, Inc.](https://www.docomoinnovations.com/)
   
 Skills
 -----------
