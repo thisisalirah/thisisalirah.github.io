@@ -58,10 +58,10 @@ heterogeneous networks: An efficient optimization method.” *IEEE Commun. Lett.
 
 
 [C15]   A. Bhuyan, I. Guvenc, H. Dai, M. Sichitiu, S. Singh, **A. Rahmati**, S. J., Maeng,  ''Secure 5G Network for a Nationwide Drone Corridor
-Authors'',  in Proc. IEEE Aerospace Conference, 2021.
+Authors'',  *in Proc. IEEE Aerospace Conference*, 2021.
 
 
-[C14] **A. Rahmati**,  S. Hosseinalipour, Y. Yapici, I. Guvenc, H. Dai, and A. Bhuyan, "Energy-Efficient Beamforming and Power Control for Uplink NOMA in mmWave UAV Networks", in Proc. IEEE Global Telecommun. Conf., Taipei, Taiwan, Dec. 2020.
+[C14] **A. Rahmati**,  S. Hosseinalipour, Y. Yapici, I. Guvenc, H. Dai, and A. Bhuyan, "Energy-Efficient Beamforming and Power Control for Uplink NOMA in mmWave UAV Networks", *in Proc. IEEE Global Telecommun. Conf.*, Taipei, Taiwan, Dec. 2020.
 
 
 [C13] **A. Rahmati**, S. Hosseinalipour, I. Guvenc, H. Dai, and A. Bhuyan, “Lifetime Maximization for UAV-assisted Data Gathering Networks in the Presence of Jamming”, in *Proc. IEEE Sig. Advances in Wireless Commun. (SPAWC)*, May 2020. [[arXiv]](https://arxiv.org/abs/2005.04585)
