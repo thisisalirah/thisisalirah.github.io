@@ -28,7 +28,7 @@ I am a PhD student in Electrical and Computer engineering  department in [North 
 
 ##### 2020
  - [Nov 2020]  Done with PhD Preliminary exam.
-- [Nov 2020] Our paper  accepted in [*IEEE Aerospace Conference 2021*](https://aeroconf.org/). 
+- [Nov 2020] Our paper  accepted in [*IEEE Aerospace 2021*](https://aeroconf.org/). 
 - [Aug 2020]  Our paper accepted in [*IEEE Globecom 2020*](https://globecom2020.ieee-globecom.org/).
 - [Jul 2020] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com/)  CRD as a research intern.
 - [Jul 2020]  Our [paper](https://ieeexplore.ieee.org/document/9140376) accepted in [ *IEEE Transactions of Wireless Communications*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693).
