@@ -27,6 +27,8 @@ I am a PhD student in Electrical and Computer engineering  department in [North 
 ## News
 
 ##### 2020
+- [Dec 2020]  Our [paper](https://arxiv.org/abs/2004.06011) accepted in [ *IEEE Transactions of Wireless Communications*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693).
+
  - [Nov 2020]  Done with PhD Preliminary exam.
 - [Nov 2020] Our paper  accepted in [*IEEE Aerospace 2021*](https://aeroconf.org/). 
 - [Aug 2020]  Our paper accepted in [*IEEE Globecom 2020*](https://globecom2020.ieee-globecom.org/).
