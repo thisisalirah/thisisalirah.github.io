@@ -12,7 +12,6 @@ You can find all my papers on my [Google Scholar profile](https://scholar.google
 
 ## <a name="preprints"></a> Pre-prints
 
-[P2] S. Hosseinalipour, **A. Rahmati**, Do Young Eun, and H. Dai, "Energy-Aware Stochastic UAV-Assisted Surveillance," [[arXiv]](https://arxiv.org/abs/2004.06011)
 
 [P1] **A. Rahmati**, S. Hosseinalipour, Y. Yapici, X. He, I. Guvenc, H. Dai, and A. Bhuyan, "Dynamic Interference Management for UAV-Assisted Wireless Networks." [[arXiv]](https://arxiv.org/abs/1909.12777)
 
@@ -30,6 +29,7 @@ You can find all my papers on my [Google Scholar profile](https://scholar.google
 ## <a name="journal"></a>Journal papers
 
 
+[J8] S. Hosseinalipour, **A. Rahmati**, Do Young Eun, and H. Dai, "Energy-Aware Stochastic UAV-Assisted Surveillance,"  *IEEE Trans. Wireless Commun.*, Dec 2020. [[arXiv]](https://arxiv.org/abs/2004.06011)
 
 
 [J7] S. Hosseinalipour, **A. Rahmati**, and H. Dai, "Interference Avoidance Position Planning in Dual-hop and Multi-hop UAV Relay Networks,"  *IEEE Trans. Wireless Commun.*, July 2020. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9140376), [[arXiv]](https://arxiv.org/abs/1907.01930)
