@@ -60,7 +60,7 @@ heterogeneous networks: An efficient optimization method.” *IEEE Commun. Lett.
 Authors'',  *in Proc. IEEE Aerospace Conference*,  Big Sky, Montana, March 2021.
 
 
-[C14] **A. Rahmati**,  S. Hosseinalipour, Y. Yapici, I. Guvenc, H. Dai, and A. Bhuyan, "Energy-Efficient Beamforming and Power Control for Uplink NOMA in mmWave UAV Networks", *in Proc. IEEE Global Telecommun. Conf.*, Taipei, Taiwan, Dec. 2020.
+[C14] **A. Rahmati**,  S. Hosseinalipour, Y. Yapici, I. Guvenc, H. Dai, and A. Bhuyan, "Energy-Efficient Beamforming and Power Control for Uplink NOMA in mmWave UAV Networks", *in Proc. IEEE Global Telecommun. Conf.*, Taipei, Taiwan, Dec. 2020. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9348114)
 
 
 [C13] **A. Rahmati**, S. Hosseinalipour, I. Guvenc, H. Dai, and A. Bhuyan, “Lifetime Maximization for UAV-assisted Data Gathering Networks in the Presence of Jamming”, in *Proc. IEEE Sig. Advances in Wireless Commun. (SPAWC)*, May 2020. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9154318), [[arXiv]](https://arxiv.org/abs/2005.04585)
