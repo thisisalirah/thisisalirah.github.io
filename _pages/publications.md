@@ -58,8 +58,7 @@ heterogeneous networks: An efficient optimization method.” *IEEE Commun. Lett.
 [C16] **A. Rahmati**, S. M. Moosavi-Dezfooli,  and H. Dai, “Adversarial training may be  a double-edged sword”, in *Robust and Reliable Machine Learning in the Real World Workshop at ICLR 2021*, May, 2021.
 
 
-[C15]   A. Bhuyan, I. Guvenc, H. Dai, M. Sichitiu, S. Singh, **A. Rahmati**, S. J., Maeng,  ''Secure 5G Network for a Nationwide Drone Corridor
-Authors'',  *in Proc. IEEE Aerospace Conference*,  Big Sky, Montana, March 2021.
+[C15]   A. Bhuyan, I. Guvenc, H. Dai, M. Sichitiu, S. Singh, **A. Rahmati**, S. J., Maeng,  ''Secure 5G Network for a Nationwide Drone Corridor'',  *in Proc. IEEE Aerospace Conference*,  Big Sky, Montana, March 2021.
 
 
 [C14] **A. Rahmati**,  S. Hosseinalipour, Y. Yapici, I. Guvenc, H. Dai, and A. Bhuyan, "Energy-Efficient Beamforming and Power Control for Uplink NOMA in mmWave UAV Networks", *in Proc. IEEE Global Telecommun. Conf.*, Taipei, Taiwan, Dec. 2020. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9348114)
