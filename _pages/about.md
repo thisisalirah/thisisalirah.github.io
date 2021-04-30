@@ -29,7 +29,7 @@ I am a PhD student in Electrical and Computer engineering  department in [North 
 ##### 2021
 
 - [Apr 2021] Successfully defended PhD thesis. 
-- [Mar 2021]  Our paper on adversarial training against black-box attacks accepted in [ *ICLR RobustML Workshop 2021*](https://sites.google.com/connect.hku.hk/robustml-2021/home).
+- [Mar 2021]  Our paper on adversarial training accepted in [ *ICLR RobustML Workshop 2021*](https://sites.google.com/connect.hku.hk/robustml-2021/home).
 
 ##### 2020
 - [Dec 2020]  Our [paper](https://arxiv.org/abs/2004.06011) accepted in [ *IEEE Transactions of Wireless Communications*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693).
