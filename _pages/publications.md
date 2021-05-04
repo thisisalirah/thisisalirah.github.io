@@ -55,7 +55,7 @@ heterogeneous networks: An efficient optimization method.” *IEEE Commun. Lett.
 
 ## <a name="conf"></a> Conference papers
 
-[C16] **A. Rahmati**, S. M. Moosavi-Dezfooli,  and H. Dai, “Adversarial training may be  a double-edged sword”, in *Robust and Reliable Machine Learning in the Real World Workshop at ICLR 2021*, May, 2021. [link](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-018)
+[C16] **A. Rahmati**, S. M. Moosavi-Dezfooli,  and H. Dai, “Adversarial training may be  a double-edged sword”, in *Robust and Reliable Machine Learning in the Real World Workshop at ICLR 2021*, May, 2021. [[link]](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-018)
 
 
 [C15]   A. Bhuyan, I. Guvenc, H. Dai, M. Sichitiu, S. Singh, **A. Rahmati**, S. J., Maeng,  ''Secure 5G Network for a Nationwide Drone Corridor'',  *in Proc. IEEE Aerospace Conference*,  Big Sky, Montana, March 2021.
