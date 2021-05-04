@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-## Education   
+# Education   
 -----------
 [**NC State University**](https://www.ncsu.edu/), **Raleigh, NC, USA (Spring 2017 -- Summer 2021)**
 
