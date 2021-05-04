@@ -68,7 +68,7 @@ heterogeneous networks: An efficient optimization method.” *IEEE Commun. Lett.
 
 [C12] **A. Rahmati**, S. M. Moosavi-Dezfooli, P. Frossard, and H. Dai, “A geometric framework for black-box adversarial attacks”, in *CVF/IEEE Computer Vision and Pattern Recognition (CVPR'20)*, Seattle, WA, 2020. [[CVF Open Access]](http://openaccess.thecvf.com/content_CVPR_2020/html/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.html), [[arXiv]](http://arxiv.org/abs/2003.06468), [[Code]](https://github.com/thisisalirah/GeoDA), [[Blog post]](https://thisisalirah.github.io/portfolio/portfolio-1/)
 
-[C11] S.  Hosseinalipour, **A.  Rahmati**,  and  H.  Dai.   “Optimal Jammer Placement in UAV-assisted Relay Networks”, in *Proc. IEEE Int. Conf. on Commun. (ICC)* 2020. [[arXiv]](https://arxiv.org/abs/2002.10020)
+[C11] S.  Hosseinalipour, **A.  Rahmati**,  and  H.  Dai.   “Optimal Jammer Placement in UAV-assisted Relay Networks”, in *Proc. IEEE Int. Conf. on Commun. (ICC)* 2020. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9148754), [[arXiv]](https://arxiv.org/abs/2002.10020)
 
 
 [C10] A. Bhuyan, I. Guvenc, H. Dai, Y. Yapici, **A. Rahmati**, and S. J. Maeng, “Secure mmWave Cellular Network for Drone Communication”, in *Proc. IEEE Vehic. Technol. Conf. (VTC) Workshops, Honolulu, HI, Sep.  2019*. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/8891595)
