@@ -29,13 +29,13 @@ redirect_from:
 
     * _Thesis:_ Price-based Data offloading in Heterogenous Networks
 
-**Ferdowsi University of Mashhad**, Mashhad, Iran (Fall 2008 -- Summer 2012)
+[**Ferdowsi University of Mashhad**](https://en.um.ac.ir/), **Mashhad, Iran (Fall 2008 -- Summer 2012)**
 
-*Bachelor of Science in Electrical Engineering -- Telecommunications*
+* Bachelor of Science in Electrical Engineering -- Electronics
 
-* Advisor: [Dr. Mohammad Maymandi-Nejad](https://scholar.google.com/citations?user=8Jn21fsAAAAJ&hl=en)
+    * _Advisor:_ [Dr. Mohammad Maymandi-Nejad](https://scholar.google.com/citations?user=8Jn21fsAAAAJ&hl=en)
 
-* Thesis: Design and Implementation of an RFID Module connected to Internet
+    * _Thesis:_ Design and Implementation of an RFID Module connected to Internet
 
 
 Work experience
