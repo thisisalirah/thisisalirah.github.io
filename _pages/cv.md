@@ -38,16 +38,21 @@ redirect_from:
     * _Thesis:_ Design and Implementation of an RFID Module connected to Internet
 
 
-Work experience
+# Professional Experience
 -----------
-* **Research Assistant** (Spring 2016 -- Present)
-  * [NC State University](https://www.ncsu.edu/)
+[**NC State University**](https://www.ncsu.edu/), **Raleigh, NC, USA (Spring 2017 -- Summer 2021)**
+* **Research Assistant** (Spring 2017 -- Summer 2021)
+    * Trajectory design and resource allocation for mmWave UAV networks
+    * Decision-based balck-box adversarial attacks
+    * On the effectiveness of adversarial training against adversarial attacks
 
+* [Qualcomm Technologies, Inc.](https://www.qualcomm.com), **San Diego, CA, (Summer 2020)**
 * **CRD Research Intern** (Summer 2020)
-  * [Qualcomm Technologies, Inc.](https://www.qualcomm.com)
+    * Bayesian optimization for black-box optimization
   
+* [Docomo Innovations, Inc.](https://www.docomoinnovations.com/), **Palo alto, CA, (Summer 2019)**
 * **Research Intern** (Summer 2019)
-  * [Docomo Innovations, Inc.](https://www.docomoinnovations.com/)
+    * Wireless channel dimension reduction using tSNE, UMAP, and autoencoders
   
 Skills
 -----------
