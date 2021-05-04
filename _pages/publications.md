@@ -66,7 +66,7 @@ heterogeneous networks: An efficient optimization method.” *IEEE Commun. Lett.
 
 [C13] **A. Rahmati**, S. Hosseinalipour, I. Guvenc, H. Dai, and A. Bhuyan, “Lifetime Maximization for UAV-assisted Data Gathering Networks in the Presence of Jamming”, in *Proc. IEEE Sig. Advances in Wireless Commun. (SPAWC)*, May 2020. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9154318), [[arXiv]](https://arxiv.org/abs/2005.04585)
 
-[C12] **A. Rahmati**, S. M. Moosavi-Dezfooli, P. Frossard, and H. Dai, “A geometric framework for black-box adversarial attacks”, in *CVF/IEEE Computer Vision and Pattern Recognition (CVPR'20)*, Seattle, WA, 2020. [[CVF Open Access]](http://openaccess.thecvf.com/content_CVPR_2020/html/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.html), [[arXiv]](http://arxiv.org/abs/2003.06468), [[Code]](https://github.com/thisisalirah/GeoDA), [[Blog post]](https://thisisalirah.github.io/portfolio/portfolio-1/)
+[C12] **A. Rahmati**, S. M. Moosavi-Dezfooli, P. Frossard, and H. Dai, “A geometric framework for black-box adversarial attacks”, in *CVF/IEEE Computer Vision and Pattern Recognition (CVPR)*, Seattle, WA, 2020. [[CVF Open Access]](http://openaccess.thecvf.com/content_CVPR_2020/html/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.html), [[arXiv]](http://arxiv.org/abs/2003.06468), [[Code]](https://github.com/thisisalirah/GeoDA), [[Post]](https://thisisalirah.github.io/portfolio/portfolio-1/)
 
 [C11] S.  Hosseinalipour, **A.  Rahmati**,  and  H.  Dai.   “Optimal Jammer Placement in UAV-assisted Relay Networks”, in *Proc. IEEE Int. Conf. on Commun. (ICC)* 2020. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9148754), [[arXiv]](https://arxiv.org/abs/2002.10020)
 
@@ -90,7 +90,7 @@ heterogeneous networks: An efficient optimization method.” *IEEE Commun. Lett.
 
 [C5] S.  Hosseinalipour, **A.  Rahmati**,  and  H.  Dai.   “Interference  Avoidance  Position  Planning  in  UAV-assisted Wireless Communication”, in *Proc. IEEE Int. Conf. on Commun. (ICC)* 2019. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/8761202)
 
-[C4] **A. Rahmati**, X. He, I. Guvenc, and H. Dai, “Dynamic Mobility-Aware Interference Avoidance for Aerial Base Stations in Cognitive Radio Networks”, in *Proc.  IEEE INFOCOM*, May 2019. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/8737472),  [[Blog post]](https://thisisalirah.github.io/portfolio/portfolio-2/)
+[C4] **A. Rahmati**, X. He, I. Guvenc, and H. Dai, “Dynamic Mobility-Aware Interference Avoidance for Aerial Base Stations in Cognitive Radio Networks”, in *Proc.  IEEE INFOCOM*, May 2019. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/8737472),  [[Post]](https://thisisalirah.github.io/portfolio/portfolio-2/)
 
 
 
