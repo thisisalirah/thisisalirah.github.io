@@ -13,16 +13,13 @@ redirect_from:
 -----------
 [**NC State University**](https://people.engr.ncsu.edu/hdai/), **Raleigh, NC, USA (Spring 2017 -- Summer 2021)**
 
-*Doctor of Philosophy in Electrical Engineering*
-
-* Bullet list
-    * Nested bullet
-        * Sub-nested bullet etc
-* Bullet list item 2
+* Doctor of Philosophy in Electrical Engineering*
+    * Advisor: [Dr. Huaiyu Dai](https://people.engr.ncsu.edu/hdai/)
+    * Co-advisor: [Dr. Ismail Guvenc](https://sites.google.com/site/iguvenc/)
+    * Dissertation: On applications of optimization techniques in UAV communication, resource allocation, and adversarial attacks
 
 
-* Advisor: [Dr. Huaiyu Dai](https://people.engr.ncsu.edu/hdai/)
-* Co-advisor: [Dr. Ismail Guvenc](https://sites.google.com/site/iguvenc/)
+
 
 **University of Tehran**, Tehran, Iran (Fall 2012 -- Summer 2014)
 
