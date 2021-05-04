@@ -11,7 +11,7 @@ redirect_from:
 
 Hi :), welcome to my homepage.
 
-I am a PhD student in Electrical and Computer engineering  department in [North Carolina State University](https://www.ncsu.edu/). My research is supervised by [Prof. Huaiyu Dai](https://people.engr.ncsu.edu/hdai/) and [Prof. Ismail Guvenc](https://sites.google.com/site/iguvenc/). My research interest is mainly developing mathematically tractable models of cellular networks using the tools of optimization, machine learning and game theory. Recently, I bacame intrested in robustness/security of deep image classifiers. In summer 2019, I was an intern in [Docomo Innovations, Inc.](https://www.docomoinnovations.com/).  In summer 2020, I joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com/)  Corporate Research & Development (CRD) as a summer intern.
+I received the B.S. degree in electrical  engineering from Ferdowsi University of Mashhad, Mashhad, Iran in 2012. I finished my M.S in University of Tehran, Tehran, Iran in 2014. I completed my PhD  in Electrical and Computer engineering  department in [North Carolina State University](https://www.ncsu.edu/). My research is supervised by [Prof. Huaiyu Dai](https://people.engr.ncsu.edu/hdai/) and [Prof. Ismail Guvenc](https://sites.google.com/site/iguvenc/). My research interest is mainly developing mathematically tractable models of cellular networks using the tools of optimization, machine learning and game theory. Recently, I bacame intrested in robustness/security of deep image classifiers. In summer 2019, I was an intern in [Docomo Innovations, Inc.](https://www.docomoinnovations.com/).  In summer 2020, I joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com/)  Corporate Research & Development (CRD) as a summer intern.
 
 
 
