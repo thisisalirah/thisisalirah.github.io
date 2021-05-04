@@ -21,13 +21,13 @@ redirect_from:
 
 
 
-[**NC State University**](https://ut.ac.ir/en), **Tehran, Iran (Fall 2012 -- Summer 2014)**
+[**University of Tehran**](https://ut.ac.ir/en), **Tehran, Iran (Fall 2012 -- Summer 2014)**
 
-*Master of Science in Electrical Engineering -- Communication Systems*
+* Master of Science in Electrical Engineering -- Communication Systems
 
-* Advisor: [Dr. Vahid Shah-Mansouri](https://scholar.google.ca/citations?user=EbkCWiEAAAAJ&hl=en)
+    * _Advisor:_ [Dr. Vahid Shah-Mansouri](https://scholar.google.ca/citations?user=EbkCWiEAAAAJ&hl=en)
 
-* Thesis: Price-based Data offloading in Heterogenous Networks
+    * _Thesis:_ Price-based Data offloading in Heterogenous Networks
 
 **Ferdowsi University of Mashhad**, Mashhad, Iran (Fall 2008 -- Summer 2012)
 
