@@ -40,6 +40,7 @@ redirect_from:
 
 # Professional Experience
 -----------
+
 [**NC State University**](https://www.ncsu.edu/), **Raleigh, NC, USA (Spring 2017 -- Summer 2021)**
 * **Research Assistant** (Spring 2017 -- Summer 2021)
     * Trajectory design and resource allocation for mmWave UAV networks
@@ -68,8 +69,9 @@ redirect_from:
 I have served as a teaching assistant for several courses at NC State University   **Matlab Laboratory assistant**, **Electrical Circuits Laboratory**, **Signal and Systems**, and **Computer Networks**.
 
 
-----
+
 # Reviewer for:
+-----------
 
 - IEEE Transaction on Communications
 - IEEE Journal on Selected Areas in Communications
