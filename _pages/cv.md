@@ -11,9 +11,15 @@ redirect_from:
 
 ## Education   
 -----------
-[**NC State University**](https://people.engr.ncsu.edu/hdai/) , Raleigh, NC, USA (Spring 2017 -- Summer 2021)
+[**NC State University**](https://people.engr.ncsu.edu/hdai/), **Raleigh, NC, USA (Spring 2017 -- Summer 2021)**
 
 *Doctor of Philosophy in Electrical Engineering*
+
+* Bullet list
+    * Nested bullet
+        * Sub-nested bullet etc
+* Bullet list item 2
+
 
 * Advisor: [Dr. Huaiyu Dai](https://people.engr.ncsu.edu/hdai/)
 * Co-advisor: [Dr. Ismail Guvenc](https://sites.google.com/site/iguvenc/)
