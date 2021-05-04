@@ -9,9 +9,9 @@ redirect_from:
 
 
 
-Education
+## Education   
 -----------
-**NC State University**, Raleigh, NC, USA (Spring 2017 -- Present)
+[**NC State University**](https://people.engr.ncsu.edu/hdai/) , Raleigh, NC, USA (Spring 2017 -- Summer 2021)
 
 *Doctor of Philosophy in Electrical Engineering*
 
