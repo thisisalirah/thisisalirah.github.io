@@ -46,15 +46,15 @@ redirect_from:
     * Decision-based balck-box adversarial attacks
     * On the effectiveness of adversarial training against adversarial attacks
 
-* [Qualcomm Technologies, Inc.](https://www.qualcomm.com), **San Diego, CA, (Summer 2020)**
+[**Qualcomm Technologies, Inc.**](https://www.qualcomm.com), **San Diego, CA, (Summer 2020)**
 * **CRD Research Intern** (Summer 2020)
     * Bayesian optimization for black-box optimization
   
-* [Docomo Innovations, Inc.](https://www.docomoinnovations.com/), **Palo alto, CA, (Summer 2019)**
+[**Docomo Innovations, Inc.**](https://www.docomoinnovations.com/), **Palo alto, CA, (Summer 2019)**
 * **Research Intern** (Summer 2019)
     * Wireless channel dimension reduction using tSNE, UMAP, and autoencoders
   
-Skills
+# Skills
 -----------
 * Programming: MATLAB, Python
 
@@ -63,13 +63,13 @@ Skills
 * Applications: LaTeX, Microsoft Word/PowerPoint/Excel/Visio  
 
 
-Teaching
+# Teaching
 -----------
 I have served as a teaching assistant for several courses at NC State University   **Matlab Laboratory assistant**, **Electrical Circuits Laboratory**, **Signal and Systems**, and **Computer Networks**.
 
 
 ----
-## Reviewer for:
+# Reviewer for:
 
 - IEEE Transaction on Communications
 - IEEE Journal on Selected Areas in Communications
