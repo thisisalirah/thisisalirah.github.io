@@ -48,11 +48,11 @@ redirect_from:
     * On the effectiveness of adversarial training against adversarial attacks
 
 [**Qualcomm Technologies, Inc.**](https://www.qualcomm.com), **San Diego, CA, (Summer 2020)**
-* **CRD Research Intern** (Summer 2020)
+* **CRD Research Intern** 
     * Bayesian optimization for black-box optimization
   
 [**Docomo Innovations, Inc.**](https://www.docomoinnovations.com/), **Palo alto, CA, (Summer 2019)**
-* **Research Intern** (Summer 2019)
+* **Research Intern** 
     * Wireless channel dimension reduction using tSNE, UMAP, and autoencoders
   
 # Skills
