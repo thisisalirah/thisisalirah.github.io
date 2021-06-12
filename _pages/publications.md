@@ -50,7 +50,6 @@ You can find all my papers on my [Google Scholar profile](https://scholar.google
 [J1] B. Kamidehi, **A. Rahmati**, and M. Sabbaghian. “Joint sub-channel assignment and power allocation in
 heterogeneous networks: An efficient optimization method.” *IEEE Commun. Lett.*, 2016. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/7529170)
 
-
 ---    
 
 ## <a name="conf"></a> Conference papers
@@ -58,7 +57,7 @@ heterogeneous networks: An efficient optimization method.” *IEEE Commun. Lett.
 [C16] **A. Rahmati**, S. M. Moosavi-Dezfooli,  and H. Dai, “Adversarial training may be  a double-edged sword”, in *Robust and Reliable Machine Learning in the Real World Workshop at ICLR 2021*, May, 2021. [[link]](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-018)
 
 
-[C15]   A. Bhuyan, I. Guvenc, H. Dai, M. Sichitiu, S. Singh, **A. Rahmati**, S. J., Maeng,  ''Secure 5G Network for a Nationwide Drone Corridor'',  *in Proc. IEEE Aerospace Conference*,  Big Sky, Montana, March 2021.
+[C15]   A. Bhuyan, I. Guvenc, H. Dai, M. Sichitiu, S. Singh, **A. Rahmati**, S. J., Maeng,  ''Secure 5G Network for a Nationwide Drone Corridor'',  *in Proc. IEEE Aerospace Conference*,  Big Sky, Montana, March 2021. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9438162)
 
 
 [C14] **A. Rahmati**,  S. Hosseinalipour, Y. Yapici, I. Guvenc, H. Dai, and A. Bhuyan, "Energy-Efficient Beamforming and Power Control for Uplink NOMA in mmWave UAV Networks", *in Proc. IEEE Global Telecommun. Conf.*, Taipei, Taiwan, Dec. 2020. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9348114)
