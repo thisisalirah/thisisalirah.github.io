@@ -28,7 +28,7 @@ I received the B.Sc. degree in electrical  engineering from  [Ferdowsi Universit
 
 ##### 2021
 - [May 2021] Joined Qualcomm Inc. as a senior engineer.
-- [Apr 2021] Successfully defended PhD thesis. 
+- [Apr 2021] Successfully defended PhD [thesis](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/38981/etd.pdf?sequence=1&isAllowed=y). 
 - [Mar 2021]  Our [paper](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-018) accepted in [ *ICLR RobustML Workshop 2021*](https://sites.google.com/connect.hku.hk/robustml-2021/home).
 
 ##### 2020
