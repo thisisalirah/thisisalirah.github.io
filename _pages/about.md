@@ -28,7 +28,6 @@ I received the B.Sc. degree in electrical  engineering from  [Ferdowsi Universit
 
 ##### 2021
 - [Sep 2021]  Our paper accepted in [ *IEEE Transactions of Wireless Communications*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693)
-- [May 2021] Joined Qualcomm Inc. as a senior engineer.
 - [Apr 2021] Successfully defended PhD thesis. 
 - [Mar 2021]  Our [paper](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-018) accepted in [ *ICLR RobustML Workshop 2021*](https://sites.google.com/connect.hku.hk/robustml-2021/home).
 
