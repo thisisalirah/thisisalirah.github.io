@@ -28,7 +28,6 @@ I am currently a Senior Engineer at [Qualcomm Technologies, Inc.](https://www.qu
 ##### 2023
 - [Jul 2023]  Our [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Reza_CGBA_Curvature-aware_Geometric_Black-box_Attack_ICCV_2023_paper.html) accepted in [*IEEE ICCV 2023*](https://iccv2023.thecvf.com/).
 
-- 
 ##### 2021
 - [May 2021] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com/)  CRD as a Senior Engineer.
 - [Sep 2021]  Our paper accepted in [ *IEEE Transactions of Wireless Communications*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693)
