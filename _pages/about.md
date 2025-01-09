@@ -33,14 +33,14 @@ I received the B.Sc. degree in electrical  engineering from  [Ferdowsi Universit
 
 ##### 2020
 - [Dec 2020]  Our [paper](https://arxiv.org/abs/2004.06011) accepted in [ *IEEE Transactions of Wireless Communications*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693).
- - [Nov 2020]  Done with PhD Preliminary exam.
+- [Nov 2020]  Done with PhD Preliminary exam.
 - [Nov 2020] Our [paper](https://ieeexplore.ieee.org/abstract/document/9438162) accepted in [*IEEE Aerospace 2021*](https://aeroconf.org/). 
 - [Aug 2020]  Our paper accepted in [*IEEE Globecom 2020*](https://globecom2020.ieee-globecom.org/).
 - [Jul 2020] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com/)  CRD as a research intern.
 - [Jul 2020]  Our [paper](https://ieeexplore.ieee.org/document/9140376) accepted in [ *IEEE Transactions of Wireless Communications*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693).
 - [Apr 2020]  Our [paper](https://arxiv.org/abs/2005.04585) accepted in [ *IEEE SPAWC 2020*](https://spawc2020.netlify.app/).
- - [Feb 2020]  Our [paper](http://arxiv.org/abs/2003.06468) accepted in [*CVF/IEEE CVPR 2020*](http://cvpr2020.thecvf.com/).
- - [Jan 2020]  Our [paper](https://arxiv.org/abs/2002.10020) accepted in [*IEEE ICC 2020*](https://icc2020.ieee-icc.org/).
+- [Feb 2020]  Our [paper](http://arxiv.org/abs/2003.06468) accepted in [*CVF/IEEE CVPR 2020*](http://cvpr2020.thecvf.com/).
+- [Jan 2020]  Our [paper](https://arxiv.org/abs/2002.10020) accepted in [*IEEE ICC 2020*](https://icc2020.ieee-icc.org/).
  
 ##### 2019
 - [Dec 2019]  Our [paper](https://arxiv.org/abs/1904.07781) presented in [*IEEE Globecom 2019*](https://globecom2019.ieee-globecom.org/).
